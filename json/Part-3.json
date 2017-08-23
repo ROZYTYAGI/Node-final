@@ -1,0 +1,54 @@
+[
+  {
+    "State": "Agricultural Production Foodgrains Rice Area Andhra Pradesh",
+    "year2004": 2.98,
+    "year2005": 3.09,
+    "year2006": 3.98,
+    "year2007": 3.98,
+    "year2008": 3.98,
+    "year2009": 4.39,
+    "year2010": 3.441,
+    "year2011": 4.751,
+    "year2012": 4.1,
+    "year2013": 3.49
+  },
+  {
+    "State": "Agricultural Production Foodgrains Rice Area Karnataka",
+    "year2004": 1.15,
+    "year2005": 1.31,
+    "year2006": 1.49,
+    "year2007": 1.4,
+    "year2008": 1.42,
+    "year2009": 1.51,
+    "year2010": 1.487,
+    "year2011": 1.54,
+    "year2012": 1.42,
+    "year2013": 1.27
+  },
+  {
+    "State": "Agricultural Production Foodgrains Rice Area Kerala",
+    "year2004": 0.29,
+    "year2005": 0.29,
+    "year2006": 0.28,
+    "year2007": 0.26,
+    "year2008": 0.23,
+    "year2009": 0.23,
+    "year2010": 0.234,
+    "year2011": 0.213,
+    "year2012": 0.21,
+    "year2013": 0.2
+  },
+  {
+    "State": "Agricultural Production Foodgrains Rice Area Tamil Nadu",
+    "year2004": 1.4,
+    "year2005": 1.87,
+    "year2006": 2.05,
+    "year2007": 1.93,
+    "year2008": 1.79,
+    "year2009": 1.93,
+    "year2010": 1.8455,
+    "year2011": 1.906,
+    "year2012": 1.9,
+    "year2013": 1.58
+  }
+]
