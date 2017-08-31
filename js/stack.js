@@ -1,5 +1,4 @@
-var out = [],
-    out1 = [];
+var out = [],out1 = [];
 
 var fs = require('fs')//import fs 
 var readline = require('readline')//import readline
